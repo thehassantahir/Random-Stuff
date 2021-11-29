@@ -17,3 +17,6 @@ DEVELOPERS AROUND THE WORLD CONTRIBUTE TO HISTORIC FLIGHT 2020.
 
 - [Learn Python to Boost Your Career](https://towardsdatascience.com/learn-python-to-become-a-backend-developer-in-2021-fec514cc76db) - Get to know about the creator, history and edges of python in 2021
 
+
+### November 29, 2021
+- [Regular Expression - Regex](https://dev.to/r4h33m/saving-time-with-regular-expressions---learn-the-ways-of-the-regex-3n1l) - Saving time with regular expressions - learn the ways of the regex!

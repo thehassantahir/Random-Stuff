@@ -1,7 +1,7 @@
-# Useful Random Stuff
+# `Useful Random Stuff`
 
 
-> Collection of useful stuff I found on the internet.
+> *Collection of useful stuff I found on the internet.*
 
 ### November 30, 2021
 - [Reasons of WHY!](https://www.upgrad.com/blog/reasons-why-python-popular-with-developers/) - Top 10 Reasons Why Python is So Popular With Developers

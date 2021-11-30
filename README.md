@@ -3,6 +3,11 @@
 
 > Collection of useful stuff I found on the internet.
 
+### November 30, 2021
+- [Reasons of WHY!](https://www.upgrad.com/blog/reasons-why-python-popular-with-developers/) - Top 10 Reasons Why Python is So Popular With Developers
+- [Get started with Django](https://docs.djangoproject.com/en/3.2/) - Are you new to Django or to programming? This is the place to start!
+- [Get started with Python exercises](https://www.w3resource.com/python-exercises/) - All in one place for learning, Practicing, and exploring python along other emerging languages
+
 
 ### November 29, 2021
 - [Regular Expression - Regex](https://dev.to/r4h33m/saving-time-with-regular-expressions---learn-the-ways-of-the-regex-3n1l) - Saving time with regular expressions - learn the ways of the regex!

@@ -3,6 +3,10 @@
 
 > *Collection of useful stuff I found on the internet.*
 
+### December 1, 2021
+- [Django with Nginx & WSGI](https://uwsgi-docs.readthedocs.io/en/latest/tutorials/Django_and_nginx.html) - Setting up Django and your web server with uWSGI and nginx
+
+
 ### November 30, 2021
 - [Reasons of WHY!](https://www.upgrad.com/blog/reasons-why-python-popular-with-developers/) - Top 10 Reasons Why Python is So Popular With Developers
 - [Get started with Django](https://docs.djangoproject.com/en/3.2/) - Are you new to Django or to programming? This is the place to start!

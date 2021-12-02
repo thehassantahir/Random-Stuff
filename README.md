@@ -3,6 +3,11 @@
 
 > *Collection of useful stuff I found on the internet.*
 
+
+### December 2, 2021
+- [Learn Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro) - Introduction to Machine Learning with Google
+
+
 ### December 1, 2021
 - [Django with Nginx & WSGI](https://uwsgi-docs.readthedocs.io/en/latest/tutorials/Django_and_nginx.html) - Setting up Django and your web server with uWSGI and nginx
 

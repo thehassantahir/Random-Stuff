@@ -4,6 +4,10 @@
 > *Collection of useful stuff I found on the internet.*
 
 
+### December 3, 2021
+- [Collaborate with pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github) - You can resolve simple merge conflicts that involve competing line changes on GitHub, using the conflict editor.
+
+
 ### December 2, 2021
 - [Learn Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro) - Introduction to Machine Learning with Google
 

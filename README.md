@@ -5,6 +5,8 @@
 
 
 ### December 3, 2021
+- [A step-by-step guide to Git](https://opensource.com/article/18/1/step-step-guide-git) - This beginner's guide will quickly and easily get you started using Git.
+
 - [Collaborate with pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github) - You can resolve simple merge conflicts that involve competing line changes on GitHub, using the conflict editor.
 
 

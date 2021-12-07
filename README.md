@@ -4,6 +4,9 @@
 > *Collection of useful stuff I found on the internet.*
 
 
+### December 7, 2021
+- [Step by Step using POSTMAN](https://www.guru99.com/postman-tutorial.html) - Postman is a scalable API testing tool that quickly integrates into CI/CD pipeline.
+
 ### December 3, 2021
 - [A step-by-step guide to Git](https://opensource.com/article/18/1/step-step-guide-git) - This beginner's guide will quickly and easily get you started using Git.
 

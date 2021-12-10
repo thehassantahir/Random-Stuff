@@ -3,7 +3,8 @@
 
 > *Collection of useful stuff I found on the internet.*
 
-
+### December 10, 2021
+- [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) - This PostgreSQL tutorial helps you understand PostgreSQL quickly. You’ll master PostgreSQL very fast through many practical examples and apply the knowledge in developing applications using PostgreSQL.
 ### December 7, 2021
 - [Step by Step using POSTMAN](https://www.guru99.com/postman-tutorial.html) - Postman is a scalable API testing tool that quickly integrates into CI/CD pipeline.
 

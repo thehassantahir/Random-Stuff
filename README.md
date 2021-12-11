@@ -3,7 +3,7 @@
 
 > *Collection of useful stuff I found on the internet.*
 
-### December 10, 2021
+### December 11, 2021
 - [Introduction to Node.js](https://nodejs.dev/learn) - Node.js is an open-source and cross-platform JavaScript runtime environment. It is a popular tool for almost any kind of project!
 
 ### December 10, 2021

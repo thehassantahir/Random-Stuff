@@ -5,6 +5,7 @@
 
 ### December 12, 2021
 - [15 Things Everyone Should Know About Quantum Computing](https://bernardmarr.com/15-things-everyone-should-know-about-quantum-computing/) - Any discussion of quantum computing feels like a quantum leap into a sci-fi realm. Make no mistake. We are on the cusp of computer technology that defies logic
+- [Quantum Computing: Understanding Its Learning Path And Career Choices](https://analyticsindiamag.com/quantum-computing-understanding-its-learning-path-and-career-choices/) - BM Researcher Jay Gambetta observes that the interest in quantum computing is coupled by a broadening of entry paths and R&D, which has sparked an interest in the field...
 
 ### December 11, 2021
 - [Introduction to Node.js](https://nodejs.dev/learn) - Node.js is an open-source and cross-platform JavaScript runtime environment. It is a popular tool for almost any kind of project!

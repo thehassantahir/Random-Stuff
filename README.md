@@ -3,6 +3,9 @@
 
 > *Collection of useful stuff I found on the internet.*
 
+### December 12, 2021
+- [15 Things Everyone Should Know About Quantum Computing](https://bernardmarr.com/15-things-everyone-should-know-about-quantum-computing/) - Any discussion of quantum computing feels like a quantum leap into a sci-fi realm. Make no mistake. We are on the cusp of computer technology that defies logic
+
 ### December 11, 2021
 - [Introduction to Node.js](https://nodejs.dev/learn) - Node.js is an open-source and cross-platform JavaScript runtime environment. It is a popular tool for almost any kind of project!
 

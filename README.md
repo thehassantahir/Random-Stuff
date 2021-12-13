@@ -4,6 +4,9 @@
 > *Collection of useful stuff I found on the internet.*
 
 ### December 12, 2021
+- [Getting Started with Django CMS](https://docs.django-cms.org/en/latest/introduction/index.html) - starting from installation of django CMS and the creation of a brand new project, and build on each other, so it’s recommended to work through them in the order presented in link.
+
+### December 12, 2021
 - [15 Things Everyone Should Know About Quantum Computing](https://bernardmarr.com/15-things-everyone-should-know-about-quantum-computing/) - Any discussion of quantum computing feels like a quantum leap into a sci-fi realm. Make no mistake. We are on the cusp of computer technology that defies logic
 - [Quantum Computing: Understanding Its Learning Path And Career Choices](https://analyticsindiamag.com/quantum-computing-understanding-its-learning-path-and-career-choices/) - IBM Researcher Jay Gambetta observes that the interest in quantum computing is coupled by a broadening of entry paths and R&D, which has sparked an interest in the field...
 - [Artificial Intelligence for Django](https://django-ai.readthedocs.io/en/latest/readme.html) - Django-ai is a collection of apps for integrating statistical models into your Django project, providing a framework so you can implement machine learning conveniently.

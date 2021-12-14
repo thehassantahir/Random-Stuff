@@ -3,6 +3,9 @@
 
 > *Collection of useful stuff I found on the internet.*
 
+### December 14, 2021
+- [1,000 stars on my GitHub Project](https://www.freecodecamp.org/news/how-i-got-1000-on-my-github-project-654d3d394ca6/) - Rank your Github projecct in no time!
+
 ### December 12, 2021
 - [Getting Started with Django CMS](https://docs.django-cms.org/en/latest/introduction/index.html) - starting from installation of django CMS and the creation of a brand new project, and build on each other, so it’s recommended to work through them in the order presented in link.
 

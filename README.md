@@ -3,6 +3,9 @@
 
 > *Collection of useful stuff I found on the internet.*
 
+### December 19, 2021
+- [Hack Facebook with python using Faceboom](https://github.com/thehassantahir/Faceboom/blob/master/README.md) - Faceboom is a brute force application built on python 2.7 later upgraded to 3.6 which enables the tester to enter the victims account by using their API, it uses various libraries like optparse, re and more.
+
 ### December 14, 2021
 - [1,000 stars on my GitHub Project](https://www.freecodecamp.org/news/how-i-got-1000-on-my-github-project-654d3d394ca6/) - Rank your Github project in no time!
 - [Django Project Structure and File Structure](https://techvidvan.com/tutorials/django-project-structure-layout/#:~:text=Django%20makes%20use%20of%20a,t%20Repeat%20Yourself%20and%20clean.) - Django makes use of a directory structure to arrange different parts of the web application. It creates a project and an app folder for this.

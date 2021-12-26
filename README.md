@@ -3,6 +3,9 @@
 
 > *Collection of useful stuff I found on the internet.*
 
+### December 26, 2021
+- [GitHub Actions: End to end CI/CD Pipeline for Django](https://medium.com/intelligentmachines/github-actions-end-to-end-ci-cd-pipeline-for-django-5d48d6f00abf) - How they work with commits, pushes, pull requests, merges and ci/cd pipelines.
+
 ### December 19, 2021
 - [Hack Facebook with python using Faceboom](https://github.com/thehassantahir/Faceboom/blob/master/README.md) - Faceboom is a brute force application built on python 2.7 later upgraded to 3.6 which enables the tester to enter the victims account by using their API, it uses various libraries like optparse, re and more.
 

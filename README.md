@@ -3,6 +3,9 @@
 
 > *Collection of useful stuff I found on the internet.*
 
+### January 06, 2022
+- [target="_blank" is a security risk?](https://dev.to/thehassantahir/targetblank-is-a-security-risk-1ee4) As we all use target="_blank" to open the link into new tab of a window but everyone should know a risk inside it.
+
 ### December 27, 2021
 - [Beginners Guide to GitHub Actions, Django and Docker](https://dev.to/ken_mwaura1/beginners-guide-to-github-actions-django-and-docker-2om6) This repository contains a skeleton Django App that can be used as a starting point for a Django project, Dockerfile, Docker compose file and workflow file.
 

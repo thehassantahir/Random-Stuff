@@ -3,6 +3,9 @@
 
 > *Collection of useful stuff I found on the internet.*
 
+### January 14, 2022
+- [How I Added My Newsletter To My Twitter Profile](https://www.christophtrappe.com/newsletter-on-twitter-profile/#:~:text=Starting%20your%20Twitter%20Newsletter,in%20the%20super%20easy%20builder.) Twitter has rolled out Twitter newsletters and they are integrated into your Twitter account. Once you click, Twitter sends you to Revue to set up your newsletter there.
+
 ### January 06, 2022
 - [target="_blank" is a security risk?](https://dev.to/thehassantahir/targetblank-is-a-security-risk-1ee4) As we all use target="_blank" to open the link into new tab of a window but everyone should know a risk inside it.
 

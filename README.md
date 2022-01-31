@@ -3,6 +3,9 @@
 
 > *Collection of useful stuff I found on the internet.*
 
+### January 31, 2022
+- [Regular expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions) Regular expressions are patterns used to match character combinations in strings. In JavaScript, regular expressions are also objects.
+
 ### January 14, 2022
 - [How I Added My Newsletter To My Twitter Profile](https://www.christophtrappe.com/newsletter-on-twitter-profile/#:~:text=Starting%20your%20Twitter%20Newsletter,in%20the%20super%20easy%20builder.) Twitter has rolled out Twitter newsletters and they are integrated into your Twitter account. Once you click, Twitter sends you to Revue to set up your newsletter there.
 

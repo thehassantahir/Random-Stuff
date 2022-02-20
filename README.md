@@ -3,6 +3,9 @@
 
 > *Collection of useful stuff I found on the internet.*
 
+### February 20, 2022
+- [Software Design](https://www.freecodecamp.org/news/software-design/) Here's my roadmap for how to learn software design and architecture.
+
 ### January 31, 2022
 - [Regular expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions) Regular expressions are patterns used to match character combinations in strings. In JavaScript, regular expressions are also objects.
 

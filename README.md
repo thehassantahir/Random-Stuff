@@ -6,6 +6,9 @@
 ### March 19, 2022
 - [What is Quantum Computing? - IBM](https://www.ibm.com/quantum-computing/what-is-quantum-computing/) Quantum computing harnesses the phenomena of quantum mechanics to deliver a huge leap forward in computation to solve certain problems.
 
+- [Why Python is important in 2022](https://techbootcamps.utexas.edu/blog/why-learn-python-get-started-programming/#:~:text=Why%20Learn%20Python%3F-,Five%20Reasons%20to%20Start%20Programming%20With%20Python%20in%202022,a%20great%20place%20to%20start.) Python is an in-demand, accessible programming language with an active, ever-growing community of users. For anyone looking to switch careers into the tech world through coding, Python is a great place to start.
+
+
 ### February 20, 2022
 - [Software Design](https://www.freecodecamp.org/news/software-design/) Here's my roadmap for how to learn software design and architecture.
 

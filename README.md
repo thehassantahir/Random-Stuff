@@ -3,6 +3,9 @@
 
 > *Collection of useful stuff I found on the internet.*
 
+### March 19, 2022
+- [What is Quantum Computing? - IBM](https://www.ibm.com/quantum-computing/what-is-quantum-computing/) Quantum computing harnesses the phenomena of quantum mechanics to deliver a huge leap forward in computation to solve certain problems.
+
 ### February 20, 2022
 - [Software Design](https://www.freecodecamp.org/news/software-design/) Here's my roadmap for how to learn software design and architecture.
 

@@ -3,6 +3,9 @@
 
 > *Collection of useful stuff I found on the internet.*
 
+### March 20, 2022
+- [What is cloud computing? Everything you need to know about the cloud explained](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/) An introduction to cloud computing, right from the basics up to IaaS and PaaS, hybrid, public, and private cloud, AWS and Azure.
+
 ### March 19, 2022
 - [What is Quantum Computing? - IBM](https://www.ibm.com/quantum-computing/what-is-quantum-computing/) Quantum computing harnesses the phenomena of quantum mechanics to deliver a huge leap forward in computation to solve certain problems.
 

@@ -3,6 +3,9 @@
 
 > *Collection of useful stuff I found on the internet.*
 
+### March 21, 2022
+- [8 Ways to Become a Better Coder](https://newrelic.com/blog/nerd-life/8-ways-become-a-better-coder) That’s an easy career improvement goal to give oneself, but “become a kick-ass programmer” is not a simple goal. For one thing, saying, “I want to get better” assumes that you recognize what “better” looks like. Plus, too many people aim for improvement without any sense of how to get there.
+
 ### March 20, 2022
 - [What is cloud computing? Everything you need to know about the cloud explained](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/) An introduction to cloud computing, right from the basics up to IaaS and PaaS, hybrid, public, and private cloud, AWS and Azure.
 

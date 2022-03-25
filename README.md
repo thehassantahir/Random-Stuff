@@ -3,6 +3,9 @@
 
 > *Collection of useful stuff I found on the internet.*
 
+### March 25, 2022
+- [Why is cyber security important?](https://www.visma.com/cyber-security/why-is-cyber-security-important/#:~:text=Cyber%20security%20is%20important%20because,use%20it%20to%20cause%20harm.) Today, cyber attacks are no longer stopped by antivirus software or firewalls. The risk of cyber attacks is constantly increasing and for companies and institutions it is no longer a question of “if” it will happen but rather “when”. This is why cyber security is of such great importance.
+
 ### March 21, 2022
 - [8 Ways to Become a Better Coder](https://newrelic.com/blog/nerd-life/8-ways-become-a-better-coder) That’s an easy career improvement goal to give oneself, but “become a kick-ass programmer” is not a simple goal. For one thing, saying, “I want to get better” assumes that you recognize what “better” looks like. Plus, too many people aim for improvement without any sense of how to get there.
 

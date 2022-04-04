@@ -3,6 +3,9 @@
 
 > *Collection of useful stuff I found on the internet.*
 
+### April 04,2022
+- [Learn to Build, Deploy and Operate Python Applications](https://www.fullstackpython.com/) You're knee deep in learning Python programming. The syntax is starting to make sense. The first few ahh-ha! moments hit you as you learn to use conditional statements, for loops and classes while coding with the open source libraries that make Python such an amazing programming ecosystem.
+
 ### March 25, 2022
 - [Why is cyber security important?](https://www.visma.com/cyber-security/why-is-cyber-security-important/#:~:text=Cyber%20security%20is%20important%20because,use%20it%20to%20cause%20harm.) Today, cyber attacks are no longer stopped by antivirus software or firewalls. The risk of cyber attacks is constantly increasing and for companies and institutions it is no longer a question of “if” it will happen but rather “when”. This is why cyber security is of such great importance.
 

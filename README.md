@@ -3,6 +3,9 @@
 
 > *Collection of useful stuff I found on the internet.*
 
+### August 14, 2022
+- [Which data structure should be used and when?](https://www.quora.com/Which-data-structure-should-be-used-and-when) Data structure is a particular way of organizing data, so we can easily manipulate or access according to our need. One must choose appropriate data structure for better performance.
+
 ### April 04,2022
 - [Learn to Build, Deploy and Operate Python Applications](https://www.fullstackpython.com/) You're knee deep in learning Python programming. The syntax is starting to make sense. The first few ahh-ha! moments hit you as you learn to use conditional statements, for loops and classes while coding with the open source libraries that make Python such an amazing programming ecosystem.
 

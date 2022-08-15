@@ -3,6 +3,10 @@
 
 > *Collection of useful stuff I found on the internet.*
 
+### August 15, 2022
+- [Google's Python Class](https://developers.google.com/edu/python) Welcome to Google's Python Class -- this is a free class for people with a little bit of programming experience who want to learn Python.
+
+
 ### August 14, 2022
 - [Which data structure should be used and when?](https://www.quora.com/Which-data-structure-should-be-used-and-when) Data structure is a particular way of organizing data, so we can easily manipulate or access according to our need. One must choose appropriate data structure for better performance.
 

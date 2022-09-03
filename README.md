@@ -3,6 +3,9 @@
 
 > *Collection of useful stuff I found on the internet.*
 
+### September 03, 2022
+- [Choosing the Right Data Structure to solve problems](https://www.careerdrill.com/blog/coding-interview/choosing-the-right-data-structure-to-solve-problems/) The data structure is a particular way of organizing data in a computer. The developer must choose the appropriate data structure for better performance. If the developer chooses a bad data structure, the system does not perform well. This article explains each data structure’s advantages and usage.
+
 ### August 15, 2022
 - [Google's Python Class](https://developers.google.com/edu/python) Welcome to Google's Python Class -- this is a free class for people with a little bit of programming experience who want to learn Python.
 
